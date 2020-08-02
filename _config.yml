@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 
-defaults:
+defaults: 
   - scope:
       path: "/artigos/01.md"
     values:
