@@ -1,1 +1,12 @@
-teste
+---
+layout: artigos
+title: Ferramenta Strings
+permalink: /artigos/01/
+description: TBD
+
+breadcrumb:
+  - url: /
+    title: Página inicial
+  - url: /artigos
+    title: Artigos
+---
