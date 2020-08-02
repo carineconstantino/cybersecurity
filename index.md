@@ -7,8 +7,6 @@ keywords: cybersecurity, segurança, seginfo
 
 ## TODOS OS ARTIGOS 
 
-- List
-
-(02/08/2020)[Link](url)
+- [Link](url)
 
 
