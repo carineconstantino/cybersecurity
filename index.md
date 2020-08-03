@@ -10,5 +10,6 @@ url: https://carineconstantino.github.io/cybersecurity/
 
 - [Ferramenta Strings](https://carineconstantino.github.io/cybersecurity/artigos/01.md)
 - [Técnicas de ofuscação e empacotamento de malware](https://carineconstantino.github.io/cybersecurity/artigos/02.md)
+- [Shell Reverso com MSFVenon e Metasploit](https://carineconstantino.github.io/cybersecurity/artigos/03.md)
 
 
