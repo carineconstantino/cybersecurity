@@ -12,5 +12,6 @@ url: https://carineconstantino.github.io/cybersecurity/
 - [Técnicas de ofuscação e empacotamento de malware](https://carineconstantino.github.io/cybersecurity/artigos/02.md)
 - [Shell Reverso com MSFVenom e Metasploit](https://carineconstantino.github.io/cybersecurity/artigos/03.md)
 - [DLL na Análise de Malware](https://carineconstantino.github.io/cybersecurity/artigos/04.md)
+- [SMB - Auditoria com Metasploit](https://carineconstantino.github.io/cybersecurity/artigos/05.md)
 
 
