@@ -13,5 +13,6 @@ url: https://carineconstantino.github.io/cybersecurity/
 - [Shell Reverso com MSFVenom e Metasploit](https://carineconstantino.github.io/cybersecurity/artigos/03.md)
 - [DLL na Análise de Malware](https://carineconstantino.github.io/cybersecurity/artigos/04.md)
 - [SMB - Auditoria com Metasploit](https://carineconstantino.github.io/cybersecurity/artigos/05.md)
+- [HTT - Auditoria com Metasploit](https://carineconstantino.github.io/cybersecurity/artigos/06.md)
 
 
