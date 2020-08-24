@@ -17,6 +17,6 @@ url: https://carineconstantino.github.io/cybersecurity/
 - [Brute-Force - Login Form](https://carineconstantino.github.io/cybersecurity/artigos/07.md)
 - [Command-Injection com Metasploit e Meterpreter](https://carineconstantino.github.io/cybersecurity/artigos/08.md)
 - [Ferramenta Recon-ng](https://carineconstantino.github.io/cybersecurity/artigos/09.md)
-
+- [Path Traversal Attack](https://carineconstantino.github.io/cybersecurity/artigos/10.md)
 
 
